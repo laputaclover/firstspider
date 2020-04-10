@@ -1,0 +1,32 @@
+2020-04-10 09:48:29 上午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider blog.sina.com.cn started!
+2020-04-10 09:48:30 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success http://blog.sina.com.cn/s/articlelist_1487828712_0_1.html
+2020-04-10 09:48:33 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success http://blog.sina.com.cn/s/blog_58ae76e80100to5q.html
+2020-04-10 09:48:36 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success http://blog.sina.com.cn/s/blog_58ae76e80100s2mo.html
+2020-04-10 09:48:43 上午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider www.baidu.com started!
+2020-04-10 09:48:44 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://www.baidu.com/
+2020-04-10 09:48:47 上午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:338) ]
+INFO:Spider www.baidu.com closed! 1 pages downloaded.
+2020-04-10 10:35:23 上午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider www.baidu.com started!
+2020-04-10 10:35:24 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://www.baidu.com/
+2020-04-10 10:35:27 上午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:338) ]
+INFO:Spider www.baidu.com closed! 1 pages downloaded.
+2020-04-10 10:36:42 上午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider www.baidu.com started!
+2020-04-10 10:36:42 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://www.baidu.com/
+2020-04-10 10:36:45 上午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:338) ]
+INFO:Spider www.baidu.com closed! 1 pages downloaded.
+2020-04-10 11:38:41 上午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider www.baidu.com started!
+2020-04-10 11:38:41 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://www.baidu.com/
+2020-04-10 11:38:44 上午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:338) ]
+INFO:Spider www.baidu.com closed! 1 pages downloaded.

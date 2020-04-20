@@ -1,0 +1,864 @@
+2020-04-19 16:07:08 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411050683884/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:10 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411100220703/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:11 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411099460584/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:12 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411049624754/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:13 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411052376366/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:15 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411051971599/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:16 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411049000424/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:17 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411051982787/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:18 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411048965651/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:20 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411049755971/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:21 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411049015750/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:22 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411049590020/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:23 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411889482936593/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:24 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411049583813/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:26 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411049017435/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:27 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411049015478/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:28 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411048914326/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:29 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411049629297/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:31 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411049610302/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:32 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411099793090/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:33 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411137626682272/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:34 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411051949417/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:36 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411049495117/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:12:38 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411050683884/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:89)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:12:39 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411100220703/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:89)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:12:41 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411099460584/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:89)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:12:42 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411049624754/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:89)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:12:43 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411052376366/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:89)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:12:44 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411051971599/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:89)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:12:45 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411049000424/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:89)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:31 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411050683884/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:32 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411100220703/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:34 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411099460584/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:35 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049624754/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:36 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411052376366/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:36 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411051971599/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:37 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049000424/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:38 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411051982787/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:38 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411048965651/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:39 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049755971/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:40 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049015750/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:41 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049590020/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:41 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411889482936593/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:42 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049583813/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:43 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049017435/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:43 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049015478/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:44 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411048914326/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:45 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049629297/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:46 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049610302/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:46 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411099793090/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:47 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411137626682272/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:48 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411051949417/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:48 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049495117/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:49 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411051838278/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:50 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411063687398/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:51 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049506058/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:52 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049608725/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:52 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049734975/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:53 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c246926523706485/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:54 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049786957/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:55 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049948745/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:55 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049937667/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:56 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2412186060860433/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:57 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411048871727/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:57 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049787157/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:58 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049672983/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:59 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c247488086225629/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)

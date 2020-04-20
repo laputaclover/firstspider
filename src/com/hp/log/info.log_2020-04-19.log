@@ -1,0 +1,1694 @@
+2020-04-19 11:42:07 上午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider sz.lianjia.com started!
+2020-04-19 11:42:08 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:42:11 上午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:338) ]
+INFO:Spider sz.lianjia.com closed! 1 pages downloaded.
+2020-04-19 11:49:28 上午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider sz.lianjia.com started!
+2020-04-19 11:49:29 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:49:33 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg1sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:49:37 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg2sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:49:40 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg3sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:49:44 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg4sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:49:48 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg5sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:49:51 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg6sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:49:55 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg7sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:49:59 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg8sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:50:03 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg9sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:50:06 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg10sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:50:10 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg11sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:50:14 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg12sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:50:17 上午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:338) ]
+INFO:Spider sz.lianjia.com closed! 13 pages downloaded.
+2020-04-19 11:52:21 上午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider sz.lianjia.com started!
+2020-04-19 11:52:22 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:52:26 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg1sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:52:30 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg2sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:52:34 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg3sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:52:38 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg4sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:52:42 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg5sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:52:45 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg6sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:52:49 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg7sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:52:53 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg8sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:52:56 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg9sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:53:00 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg10sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:53:04 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg11sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:53:08 上午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg12sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 11:53:11 上午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:338) ]
+INFO:Spider sz.lianjia.com closed! 13 pages downloaded.
+2020-04-19 12:02:42 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider sz.lianjia.com started!
+2020-04-19 12:02:43 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 12:02:47 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg1sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 12:03:06 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider sz.lianjia.com started!
+2020-04-19 12:03:07 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 12:03:11 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg1sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 12:15:41 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider sz.lianjia.com started!
+2020-04-19 12:15:42 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 12:15:46 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg1sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 12:15:50 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg2sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 12:15:53 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg3sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 12:15:57 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg4sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 12:16:01 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg5sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 12:16:04 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg6sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 12:16:20 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider sz.lianjia.com started!
+2020-04-19 12:16:21 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 12:16:25 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg1sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 12:16:29 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg2sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 12:17:59 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider sz.lianjia.com started!
+2020-04-19 12:18:00 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 12:18:04 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg1sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 12:18:55 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider sz.lianjia.com started!
+2020-04-19 12:18:56 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 12:19:00 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg1sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 12:19:04 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg2sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 14:55:28 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider sz.lianjia.com started!
+2020-04-19 14:55:29 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 14:55:33 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg1sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 14:55:37 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg2sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 14:55:41 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg3sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 14:55:45 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg4sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 14:55:49 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg5sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 14:55:53 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg6sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 14:55:57 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg7sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 14:56:00 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg8sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 14:56:04 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg9sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 14:56:08 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg10sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 14:56:12 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg11sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 14:56:16 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg12sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 14:56:19 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:338) ]
+INFO:Spider sz.lianjia.com closed! 13 pages downloaded.
+2020-04-19 16:06:17 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider sz.lianjia.com started!
+2020-04-19 16:06:18 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:06:22 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg1sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:06:26 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg2sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:06:30 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg3sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:06:33 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg4sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:06:37 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg5sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:06:41 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg6sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:06:45 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg7sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:06:49 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg8sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:06:53 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg9sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:06:56 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg10sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:07:00 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg11sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:07:04 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg12sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:07:08 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411050683884/
+2020-04-19 16:07:08 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411050683884/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:10 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411100220703/
+2020-04-19 16:07:10 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411100220703/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:11 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411099460584/
+2020-04-19 16:07:11 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411099460584/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:12 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049624754/
+2020-04-19 16:07:12 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411049624754/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:13 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411052376366/
+2020-04-19 16:07:13 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411052376366/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:15 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411051971599/
+2020-04-19 16:07:15 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411051971599/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:16 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049000424/
+2020-04-19 16:07:16 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411049000424/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:17 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411051982787/
+2020-04-19 16:07:17 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411051982787/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:18 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411048965651/
+2020-04-19 16:07:18 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411048965651/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:20 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049755971/
+2020-04-19 16:07:20 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411049755971/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:21 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049015750/
+2020-04-19 16:07:21 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411049015750/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:22 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049590020/
+2020-04-19 16:07:22 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411049590020/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:23 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411889482936593/
+2020-04-19 16:07:23 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411889482936593/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:24 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049583813/
+2020-04-19 16:07:24 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411049583813/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:26 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049017435/
+2020-04-19 16:07:26 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411049017435/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:27 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049015478/
+2020-04-19 16:07:27 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411049015478/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:28 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411048914326/
+2020-04-19 16:07:28 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411048914326/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:29 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049629297/
+2020-04-19 16:07:29 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411049629297/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:31 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049610302/
+2020-04-19 16:07:31 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411049610302/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:32 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411099793090/
+2020-04-19 16:07:32 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411099793090/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:33 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411137626682272/
+2020-04-19 16:07:33 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411137626682272/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:34 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411051949417/
+2020-04-19 16:07:34 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411051949417/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:07:36 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049495117/
+2020-04-19 16:07:36 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411049495117/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:84)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:11:47 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider sz.lianjia.com started!
+2020-04-19 16:11:48 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:11:52 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg1sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:11:56 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg2sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:11:59 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg3sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:12:03 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg4sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:12:07 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg5sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:12:11 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg6sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:12:15 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg7sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:12:18 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg8sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:12:22 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg9sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:12:26 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg10sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:12:30 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg11sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:12:34 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg12sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:12:38 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411050683884/
+2020-04-19 16:12:38 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411050683884/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:89)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:12:39 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411100220703/
+2020-04-19 16:12:39 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411100220703/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:89)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:12:41 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411099460584/
+2020-04-19 16:12:41 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411099460584/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:89)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:12:42 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049624754/
+2020-04-19 16:12:42 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411049624754/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:89)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:12:43 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411052376366/
+2020-04-19 16:12:43 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411052376366/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:89)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:12:44 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411051971599/
+2020-04-19 16:12:44 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411051971599/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:89)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:12:45 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049000424/
+2020-04-19 16:12:45 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/xiaoqu/2411049000424/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at java.util.regex.Matcher.group(Matcher.java:496)
+	at CourtProcessor.process(CourtProcessor.java:89)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:15:03 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider sz.lianjia.com started!
+2020-04-19 16:15:04 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:15:08 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg1sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:15:12 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg2sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:15:16 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg3sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:15:20 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg4sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:15:24 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg5sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:15:28 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg6sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:15:31 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg7sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:15:35 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg8sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:15:39 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg9sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:15:43 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg10sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:15:47 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg11sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:15:51 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg12sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:15:55 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411050683884/
+2020-04-19 16:15:59 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411100220703/
+2020-04-19 16:19:19 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider sz.lianjia.com started!
+2020-04-19 16:19:21 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:19:25 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg1sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:19:29 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg2sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:19:32 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg3sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:19:36 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg4sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:19:40 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg5sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:19:44 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg6sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:19:47 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg7sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:19:51 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg8sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:19:55 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg9sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:19:59 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg10sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:20:03 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg11sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:20:07 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg12sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:20:11 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411050683884/
+2020-04-19 16:20:16 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411100220703/
+2020-04-19 16:40:06 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider sz.lianjia.com started!
+2020-04-19 16:40:08 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:40:12 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg1sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:40:15 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg2sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:40:19 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg3sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:40:23 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg4sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:40:27 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg5sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:40:30 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg6sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:40:34 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg7sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:40:38 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg8sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:40:42 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg9sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:40:46 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg10sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:40:49 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg11sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:40:53 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg12sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:40:57 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411050683884/
+2020-04-19 16:41:02 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411100220703/
+2020-04-19 16:41:06 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411099460584/
+2020-04-19 16:41:10 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049624754/
+2020-04-19 16:41:14 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411052376366/
+2020-04-19 16:41:19 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411051971599/
+2020-04-19 16:41:23 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049000424/
+2020-04-19 16:41:27 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411051982787/
+2020-04-19 16:41:31 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411048965651/
+2020-04-19 16:41:36 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049755971/
+2020-04-19 16:41:40 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049015750/
+2020-04-19 16:41:44 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049590020/
+2020-04-19 16:41:48 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411889482936593/
+2020-04-19 16:41:53 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049583813/
+2020-04-19 16:41:57 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049017435/
+2020-04-19 16:42:01 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049015478/
+2020-04-19 16:42:05 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411048914326/
+2020-04-19 16:42:10 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049629297/
+2020-04-19 16:42:14 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049610302/
+2020-04-19 16:42:18 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411099793090/
+2020-04-19 16:42:42 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider sz.lianjia.com started!
+2020-04-19 16:42:43 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:42:44 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg1sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:42:45 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg2sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:42:46 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg3sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:42:47 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg4sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:42:50 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg5sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:42:51 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg6sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:42:52 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg7sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:42:53 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg8sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:42:55 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg9sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:42:55 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg10sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:42:57 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg11sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:42:57 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/ershoufang/nanshanqu/pg12sf1l2l3ba40ea10000bp300ep550/
+2020-04-19 16:42:59 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411050683884/
+2020-04-19 16:43:00 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411100220703/
+2020-04-19 16:43:02 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411099460584/
+2020-04-19 16:43:03 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049624754/
+2020-04-19 16:43:05 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411052376366/
+2020-04-19 16:43:06 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411051971599/
+2020-04-19 16:43:07 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049000424/
+2020-04-19 16:43:09 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411051982787/
+2020-04-19 16:43:10 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411048965651/
+2020-04-19 16:43:11 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049755971/
+2020-04-19 16:43:13 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049015750/
+2020-04-19 16:43:14 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049590020/
+2020-04-19 16:43:15 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411889482936593/
+2020-04-19 16:43:17 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049583813/
+2020-04-19 16:43:18 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049017435/
+2020-04-19 16:43:20 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049015478/
+2020-04-19 16:43:21 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411048914326/
+2020-04-19 16:43:22 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049629297/
+2020-04-19 16:43:24 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049610302/
+2020-04-19 16:43:25 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411099793090/
+2020-04-19 16:43:26 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411137626682272/
+2020-04-19 16:43:28 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411051949417/
+2020-04-19 16:43:29 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049495117/
+2020-04-19 16:43:31 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411051838278/
+2020-04-19 16:43:32 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411063687398/
+2020-04-19 16:43:34 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049506058/
+2020-04-19 16:43:36 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049608725/
+2020-04-19 16:43:37 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2420027869736834/
+2020-04-19 16:43:39 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049734975/
+2020-04-19 16:43:40 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/246926523706485/
+2020-04-19 16:43:42 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049786957/
+2020-04-19 16:43:44 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049948745/
+2020-04-19 16:43:45 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049937667/
+2020-04-19 16:43:47 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2412186060860433/
+2020-04-19 16:43:48 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411048871727/
+2020-04-19 16:43:50 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049787157/
+2020-04-19 16:43:51 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049672983/
+2020-04-19 16:43:53 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/247488086225629/
+2020-04-19 16:43:54 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049608196/
+2020-04-19 16:43:56 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049558415/
+2020-04-19 16:43:57 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049742739/
+2020-04-19 16:43:59 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049605971/
+2020-04-19 16:44:01 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411063585169/
+2020-04-19 16:44:02 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411048896024/
+2020-04-19 16:44:04 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/247579788914255/
+2020-04-19 16:44:05 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411048878944/
+2020-04-19 16:44:08 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411063479536/
+2020-04-19 16:44:09 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411051987876/
+2020-04-19 16:44:11 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049012426/
+2020-04-19 16:44:12 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411062649097/
+2020-04-19 16:44:14 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411048912401/
+2020-04-19 16:44:15 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/247330971266761/
+2020-04-19 16:44:17 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049781664/
+2020-04-19 16:44:19 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049571382/
+2020-04-19 16:44:20 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411052686942/
+2020-04-19 16:44:22 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/248617456577603/
+2020-04-19 16:44:23 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049771061/
+2020-04-19 16:44:25 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049953156/
+2020-04-19 16:44:26 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049737824/
+2020-04-19 16:44:28 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049001402/
+2020-04-19 16:44:29 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411052689759/
+2020-04-19 16:44:31 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411099822669/
+2020-04-19 16:44:33 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049723051/
+2020-04-19 16:44:34 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411048887175/
+2020-04-19 16:44:36 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049762853/
+2020-04-19 16:44:37 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411099840612/
+2020-04-19 16:44:39 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2413195019825149/
+2020-04-19 16:44:40 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049623336/
+2020-04-19 16:44:42 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411063686382/
+2020-04-19 16:44:44 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/248531763801685/
+2020-04-19 16:44:46 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049618006/
+2020-04-19 16:44:47 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411100213252/
+2020-04-19 16:44:48 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411099899852/
+2020-04-19 16:44:50 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/249684653976959/
+2020-04-19 16:44:51 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411048869734/
+2020-04-19 16:44:53 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411050610678/
+2020-04-19 16:44:54 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049600579/
+2020-04-19 16:44:56 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411048873834/
+2020-04-19 16:44:58 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411048996070/
+2020-04-19 16:45:00 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049746804/
+2020-04-19 16:45:02 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049600823/
+2020-04-19 16:45:03 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411100115892/
+2020-04-19 16:45:05 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049952815/
+2020-04-19 16:45:06 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049933171/
+2020-04-19 16:45:07 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049949667/
+2020-04-19 16:45:09 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049603812/
+2020-04-19 16:45:11 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049630476/
+2020-04-19 16:45:12 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049602738/
+2020-04-19 16:45:14 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049483671/
+2020-04-19 16:45:15 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411100579440/
+2020-04-19 16:45:16 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411063898068/
+2020-04-19 16:45:18 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049942705/
+2020-04-19 16:45:19 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2410315615974125/
+2020-04-19 16:45:21 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/247510040523763/
+2020-04-19 16:45:22 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411100820902/
+2020-04-19 16:45:24 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411100068570/
+2020-04-19 16:45:25 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049587645/
+2020-04-19 16:45:27 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049777908/
+2020-04-19 16:45:28 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049487692/
+2020-04-19 16:45:30 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/246924429439600/
+2020-04-19 16:45:31 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411052373762/
+2020-04-19 16:45:33 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049596415/
+2020-04-19 16:45:35 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411051970019/
+2020-04-19 16:45:36 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411050198118/
+2020-04-19 16:45:38 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049003197/
+2020-04-19 16:45:39 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2412924207246357/
+2020-04-19 16:45:41 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411051934424/
+2020-04-19 16:45:43 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411052691893/
+2020-04-19 16:45:44 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411063553834/
+2020-04-19 16:45:45 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/249725583830017/
+2020-04-19 16:45:47 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049496190/
+2020-04-19 16:45:48 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411062650190/
+2020-04-19 16:45:50 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411048910744/
+2020-04-19 16:45:51 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411052089049/
+2020-04-19 16:45:53 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2410047558791401/
+2020-04-19 16:45:54 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411099773950/
+2020-04-19 16:45:56 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411100569619/
+2020-04-19 16:45:57 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411062607075/
+2020-04-19 16:45:58 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411063687302/
+2020-04-19 16:46:00 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411048992388/
+2020-04-19 16:46:01 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049651801/
+2020-04-19 16:46:03 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049632842/
+2020-04-19 16:46:05 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/247281701040336/
+2020-04-19 16:46:06 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411062617824/
+2020-04-19 16:46:07 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049710491/
+2020-04-19 16:46:09 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/248529284967848/
+2020-04-19 16:46:10 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411063585492/
+2020-04-19 16:46:12 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/249686293426492/
+2020-04-19 16:46:13 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411055164727/
+2020-04-19 16:46:15 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049890232/
+2020-04-19 16:46:16 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411050097790/
+2020-04-19 16:46:18 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2414240335300985/
+2020-04-19 16:46:20 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049589785/
+2020-04-19 16:46:21 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049891237/
+2020-04-19 16:46:23 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2410025749983766/
+2020-04-19 16:46:24 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049959267/
+2020-04-19 16:46:26 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049612073/
+2020-04-19 16:46:27 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411048963830/
+2020-04-19 16:46:29 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411063221764/
+2020-04-19 16:46:30 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/xiaoqu/2411049501009/
+2020-04-19 16:46:31 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411050683884/
+2020-04-19 16:46:31 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411050683884/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:32 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411100220703/
+2020-04-19 16:46:32 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411100220703/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:34 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411099460584/
+2020-04-19 16:46:34 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411099460584/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:35 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411049624754/
+2020-04-19 16:46:35 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049624754/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:36 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411052376366/
+2020-04-19 16:46:36 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411052376366/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:36 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411051971599/
+2020-04-19 16:46:36 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411051971599/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:37 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411049000424/
+2020-04-19 16:46:37 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049000424/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:38 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411051982787/
+2020-04-19 16:46:38 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411051982787/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:38 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411048965651/
+2020-04-19 16:46:38 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411048965651/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:39 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411049755971/
+2020-04-19 16:46:39 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049755971/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:40 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411049015750/
+2020-04-19 16:46:40 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049015750/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:41 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411049590020/
+2020-04-19 16:46:41 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049590020/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:41 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411889482936593/
+2020-04-19 16:46:41 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411889482936593/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:42 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411049583813/
+2020-04-19 16:46:42 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049583813/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:43 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411049017435/
+2020-04-19 16:46:43 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049017435/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:43 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411049015478/
+2020-04-19 16:46:43 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049015478/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:44 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411048914326/
+2020-04-19 16:46:44 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411048914326/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:45 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411049629297/
+2020-04-19 16:46:45 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049629297/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:46 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411049610302/
+2020-04-19 16:46:46 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049610302/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:46 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411099793090/
+2020-04-19 16:46:46 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411099793090/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:47 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411137626682272/
+2020-04-19 16:46:47 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411137626682272/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:48 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411051949417/
+2020-04-19 16:46:48 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411051949417/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:48 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411049495117/
+2020-04-19 16:46:48 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049495117/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:49 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411051838278/
+2020-04-19 16:46:49 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411051838278/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:50 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411063687398/
+2020-04-19 16:46:50 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411063687398/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:51 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411049506058/
+2020-04-19 16:46:51 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049506058/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:52 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411049608725/
+2020-04-19 16:46:52 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049608725/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:52 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411049734975/
+2020-04-19 16:46:52 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049734975/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:53 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c246926523706485/
+2020-04-19 16:46:53 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c246926523706485/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:54 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411049786957/
+2020-04-19 16:46:54 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049786957/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:55 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411049948745/
+2020-04-19 16:46:55 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049948745/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:55 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411049937667/
+2020-04-19 16:46:55 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049937667/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:56 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2412186060860433/
+2020-04-19 16:46:56 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2412186060860433/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:57 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411048871727/
+2020-04-19 16:46:57 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411048871727/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:57 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411049787157/
+2020-04-19 16:46:57 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049787157/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:58 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411049672983/
+2020-04-19 16:46:58 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c2411049672983/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:46:59 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c247488086225629/
+2020-04-19 16:46:59 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider$1.run(Spider.java:324) ]
+ERROR:process request Request{url='https://sz.lianjia.com/chengjiao/c247488086225629/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at CourtProcessor.process(CourtProcessor.java:114)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-19 16:49:15 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider sz.lianjia.com started!
+2020-04-19 16:49:16 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411050683884/
+2020-04-19 16:49:19 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:338) ]
+INFO:Spider sz.lianjia.com closed! 1 pages downloaded.
+2020-04-19 16:50:53 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider sz.lianjia.com started!
+2020-04-19 16:50:54 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411050683884/
+2020-04-19 16:50:57 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:338) ]
+INFO:Spider sz.lianjia.com closed! 1 pages downloaded.
+2020-04-19 16:51:24 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider sz.lianjia.com started!
+2020-04-19 16:51:25 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411050683884/
+2020-04-19 16:51:28 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:338) ]
+INFO:Spider sz.lianjia.com closed! 1 pages downloaded.
+2020-04-19 16:54:44 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider sz.lianjia.com started!
+2020-04-19 16:54:45 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411050683884/
+2020-04-19 16:54:48 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:338) ]
+INFO:Spider sz.lianjia.com closed! 1 pages downloaded.
+2020-04-19 16:56:51 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider sz.lianjia.com started!
+2020-04-19 16:56:52 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411050683884/
+2020-04-19 16:56:56 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:338) ]
+INFO:Spider sz.lianjia.com closed! 1 pages downloaded.
+2020-04-19 16:57:09 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider sz.lianjia.com started!
+2020-04-19 16:57:10 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411050683884/
+2020-04-19 16:57:13 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:338) ]
+INFO:Spider sz.lianjia.com closed! 1 pages downloaded.
+2020-04-19 16:59:14 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider sz.lianjia.com started!
+2020-04-19 16:59:15 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411050683884/
+2020-04-19 16:59:18 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:338) ]
+INFO:Spider sz.lianjia.com closed! 1 pages downloaded.
+2020-04-19 17:00:42 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider sz.lianjia.com started!
+2020-04-19 17:00:43 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411050683884/
+2020-04-19 17:00:46 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:338) ]
+INFO:Spider sz.lianjia.com closed! 1 pages downloaded.
+2020-04-19 17:11:39 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:306) ]
+INFO:Spider sz.lianjia.com started!
+2020-04-19 17:11:40 下午 [Thread: pool-1-thread-1][ Class:us.codecraft.webmagic.downloader.HttpClientDownloader >> Method: us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:88) ]
+INFO:downloading page success https://sz.lianjia.com/chengjiao/c2411050683884/
+2020-04-19 17:11:43 下午 [Thread: main][ Class:us.codecraft.webmagic.Spider >> Method: us.codecraft.webmagic.Spider.run(Spider.java:338) ]
+INFO:Spider sz.lianjia.com closed! 1 pages downloaded.
